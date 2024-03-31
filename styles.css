@@ -13,3 +13,8 @@
 .lilas {
     background-color: #9353FF;
 }
+
+.full-cont {
+    width: 100%;
+    height: auto;
+}
